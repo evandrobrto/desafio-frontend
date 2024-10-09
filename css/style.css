@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: absolute;
+    width: 1366px;
+    height: 1817px;
+    background: #eef2f4;
+}
+
+.cabecalho{
+    
+}
